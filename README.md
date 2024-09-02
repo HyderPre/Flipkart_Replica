@@ -8,11 +8,14 @@ An e-commerce website sismiliar to a one with Flipkart
 2)Unzip the contents
 
 
-
+ 
 3)Open VSCode
 
 
-4)Select the folder 
+4)Select the folder [By pressing Ctrl+K Ctrl+O]
+
+
+5)Mkae sure you have the
 
 
 
