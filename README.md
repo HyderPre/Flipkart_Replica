@@ -1,5 +1,5 @@
 # Flipkart_Replica
-An e-commerce website sismiliar to a one with Flipkart 
+A responsive e-commerce website similiar to a one with Flipkart. 
 
 1)Download the zip file
 
